@@ -1,0 +1,13 @@
+{
+  "model": "fts_plus_novol",
+  "asset": "ZC=F",
+  "k": 11,
+  "n_paths": 20,
+  "seed": 0,
+  "quick": false,
+  "train_days": 3810,
+  "fit_seconds": 469.5,
+  "sample_seconds": 116.6,
+  "n_params": 432230,
+  "garch": "mu=-0.0022% omega=0.0431 alpha=0.045 gamma=0.019 beta=0.937 delta(volume)=0.0000 persistence=0.992"
+}

@@ -1,0 +1,13 @@
+{
+  "model": "fts_plus_nogarch",
+  "asset": "ZC=F",
+  "k": 11,
+  "n_paths": 20,
+  "seed": 0,
+  "quick": false,
+  "train_days": 3810,
+  "fit_seconds": 457.1,
+  "sample_seconds": 117.7,
+  "n_params": 432230,
+  "garch": "mu=0.0131% omega=3.6311 alpha=0.000 gamma=0.000 beta=0.000 delta(volume)=0.0000 persistence=0.000"
+}

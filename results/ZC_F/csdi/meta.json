@@ -1,0 +1,12 @@
+{
+  "model": "csdi",
+  "asset": "ZC=F",
+  "k": 11,
+  "n_paths": 20,
+  "seed": 0,
+  "quick": false,
+  "train_days": 3810,
+  "fit_seconds": 102.6,
+  "sample_seconds": 4.0,
+  "n_params": 312081
+}

@@ -1,0 +1,12 @@
+{
+  "model": "timegan",
+  "asset": "GOOG",
+  "k": 11,
+  "n_paths": 20,
+  "seed": 0,
+  "quick": false,
+  "train_days": 3020,
+  "fit_seconds": 541.1,
+  "sample_seconds": 0.0,
+  "n_params": 48938
+}

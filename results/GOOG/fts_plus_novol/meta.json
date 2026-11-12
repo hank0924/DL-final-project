@@ -1,0 +1,13 @@
+{
+  "model": "fts_plus_novol",
+  "asset": "GOOG",
+  "k": 11,
+  "n_paths": 20,
+  "seed": 0,
+  "quick": false,
+  "train_days": 3020,
+  "fit_seconds": 364.3,
+  "sample_seconds": 100.3,
+  "n_params": 432230,
+  "garch": "mu=0.0810% omega=0.1418 alpha=0.055 gamma=0.047 beta=0.885 delta(volume)=0.0000 persistence=0.963"
+}

@@ -1,0 +1,13 @@
+{
+  "model": "fts_plus",
+  "asset": "GOOG",
+  "k": 11,
+  "n_paths": 20,
+  "seed": 0,
+  "quick": false,
+  "train_days": 3020,
+  "fit_seconds": 423.4,
+  "sample_seconds": 182.5,
+  "n_params": 432230,
+  "garch": "mu=0.0831% omega=0.0000 alpha=0.057 gamma=0.099 beta=0.821 delta(volume)=0.2536 persistence=0.927"
+}

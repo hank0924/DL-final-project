@@ -1,0 +1,12 @@
+{
+  "model": "fts",
+  "asset": "SP500",
+  "k": 14,
+  "n_paths": 20,
+  "seed": 0,
+  "quick": false,
+  "train_days": 8069,
+  "fit_seconds": 970.4,
+  "sample_seconds": 187.9,
+  "n_params": 329704
+}

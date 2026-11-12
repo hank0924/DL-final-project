@@ -1,0 +1,12 @@
+{
+  "model": "fts",
+  "asset": "ZC=F",
+  "k": 11,
+  "n_paths": 20,
+  "seed": 0,
+  "quick": false,
+  "train_days": 3810,
+  "fit_seconds": 476.6,
+  "sample_seconds": 89.5,
+  "n_params": 329317
+}

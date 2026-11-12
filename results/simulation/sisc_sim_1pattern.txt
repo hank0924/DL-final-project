@@ -1,0 +1,9 @@
+﻿  SISC init 1/5: 12 iterations, 648 segments, inertia 2.8739
+  SISC init 2/5: 12 iterations, 637 segments, inertia 4.6280
+  SISC init 3/5: 12 iterations, 641 segments, inertia 4.5770
+  SISC init 4/5: 14 iterations, 624 segments, inertia 3.8911
+  SISC init 5/5: 18 iterations, 645 segments, inertia 4.3017
+patterns: 1, band None, series length 10000, true segments 651, learned segments 648, SISC iterations 12
+per-unit DTW error (matched): 0.0113   (paper: 0.009 / 0.01)
+point-level Jaccard: 0.819   (paper: 0.938 / 0.784)
+exact boundary Jaccard: 0.004   boundaries within 1 step: 0.632

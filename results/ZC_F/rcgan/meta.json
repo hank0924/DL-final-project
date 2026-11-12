@@ -1,0 +1,12 @@
+{
+  "model": "rcgan",
+  "asset": "ZC=F",
+  "k": 11,
+  "n_paths": 20,
+  "seed": 0,
+  "quick": false,
+  "train_days": 3810,
+  "fit_seconds": 37.8,
+  "sample_seconds": 0.0,
+  "n_params": 36482
+}

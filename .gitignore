@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+logs/
+*.zip
+*.pdf
+data/archive_AAPL.csv
+results/**/model.pt
+results/**/samples.npz

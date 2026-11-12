@@ -1,0 +1,12 @@
+{
+  "model": "timegan",
+  "asset": "SP500",
+  "k": 14,
+  "n_paths": 20,
+  "seed": 0,
+  "quick": false,
+  "train_days": 8069,
+  "fit_seconds": 302.2,
+  "sample_seconds": 0.0,
+  "n_params": 48938
+}

@@ -1,0 +1,12 @@
+{
+  "model": "fts",
+  "asset": "GOOG",
+  "k": 11,
+  "n_paths": 20,
+  "seed": 0,
+  "quick": false,
+  "train_days": 3020,
+  "fit_seconds": 725.9,
+  "sample_seconds": 267.1,
+  "n_params": 329317
+}

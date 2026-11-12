@@ -1,0 +1,13 @@
+{
+  "model": "fts_plus",
+  "asset": "SP500",
+  "k": 14,
+  "n_paths": 20,
+  "seed": 0,
+  "quick": false,
+  "train_days": 8069,
+  "fit_seconds": 896.5,
+  "sample_seconds": 259.3,
+  "n_params": 432809,
+  "garch": "mu=0.0322% omega=0.0000 alpha=0.017 gamma=0.106 beta=0.915 delta(volume)=0.0169 persistence=0.985"
+}
